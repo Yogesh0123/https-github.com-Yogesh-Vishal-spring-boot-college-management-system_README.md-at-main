@@ -1,1 +1,2 @@
-# https-github.com-Yogesh-Vishal-spring-boot-college-management-system_README.md-at-main
+# https://github.com/Yogeshanandgadhave/spring-boot-college-management-system.git
+ change file name
